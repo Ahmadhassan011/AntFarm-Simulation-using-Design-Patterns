@@ -1,4 +1,3 @@
-```markdown
 # AntFarm Simulation
 
 ## Description
@@ -52,7 +51,4 @@ Enter number of ticks to advance (default 1): 3
 
 > summary
 Enter colony ID: 0
-```
-
-Feel free to explore and strategize in the vibrant world of the AntFarm Simulation!
 ```
